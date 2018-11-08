@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\Ильяс Сабитов\source\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\Ильяс Сабитов\source\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\Ильяс Сабитов\source\Collection\Collection\obj\Debug\Collection.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\Ильяс Сабитов\source\Collection\Collection\obj\Debug\Collection.pdb
